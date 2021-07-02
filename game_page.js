@@ -55,4 +55,5 @@ function check() {
     answerTurn = "player1";
     document.getElementById("playerAnswer").innerHTML = "Answer Turn - " + player1_name;
   }
+  document.getElementById("output").innerHTML="";
 }
